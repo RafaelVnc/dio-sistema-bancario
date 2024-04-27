@@ -1,5 +1,6 @@
 # dio-banking-system
 Project from the Python AI Backend Developer Bootcamp provided by [digitalinnovationone](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjA1a6LjuOFAxVgr5UCHUirCaYQjBB6BAgMEAE&url=https%3A%2F%2Fweb.dio.me%2F&usg=AOvVaw0dwYA1hr1DsZZOmIkcAAcc&opi=89978449) and VIVO.
+Obs: There are two files in each directory, one in PT-BR and another in ENG, according to the file name.
 
 ## 🎯Objectives:
 - Create a basic banking system using Python;
