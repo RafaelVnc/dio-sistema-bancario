@@ -3,11 +3,11 @@ Project from the Python AI Backend Developer Bootcamp provided by [digitalinnova
 
 ## 🎯Objectives:
 - Create a basic banking system using Python;
-- Create a basic version with no functions (Directory:"sistema-bancario-basico") and another using functions (Directory:"sistema-bancario-otimizado");
-- Learn Python data structures.
+- Create a basic version without functions (Directory: 'sistema-bancario-basico'), another version using functions (Directory: 'sistema-bancario-otimizado'), and a third version using Object-Oriented Programming (Directory: 'sistema-bancario-POO').
+- Learn Python data structures and OOP.
 
 ## ⚙️Technologies:
-- Python 3 (Functions, Data structures and others.)
+- Python 3 (Functions, Data structures, OOP and others.)
 - VSCode
 
 ## How to run
